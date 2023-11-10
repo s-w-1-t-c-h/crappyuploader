@@ -21,3 +21,5 @@ python3 crappyuploader.py
 ```
 
 Then access via **https://YOUR_IP_ADDRESS:5000** and enjoy your crappy uploads!
+
+![image](https://github.com/s-w-1-t-c-h/crappyuploader/assets/6980812/fb17bac8-b2cf-4862-9771-080ceaf94752)
