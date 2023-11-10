@@ -14,9 +14,11 @@ Just a dumb uploader over TLS. Might be useful, probably won't be though. Works 
 
 For example:
 
+```
 git clone
 pip3 install flask gunicorn (or apt install python-flask python-gunicorn)
 python3 crappyuploader.py
+```
 
-Then access via https://<hosting IP>:5000 and enjoy your crappy uploads!
+Then access via **https://YOUR_IP_ADDRESS:5000** and enjoy your crappy uploads!
 
