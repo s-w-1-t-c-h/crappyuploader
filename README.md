@@ -1,7 +1,7 @@
 # crappyuploader
 A crappy HTTPS uploader with minimal TLS support for when you want to grab files from one host and get it to your own.
 
-## Crappy uploader v1.0 ##
+## v1.0 ##
 
 Just a dumb uploader over TLS. Might be useful, probably won't be though. Works with Python 3.11.7.
 
