@@ -112,6 +112,6 @@ v1.0 by sw1tch 2023
     cert_file, key_file = generate_self_signed_certificate()
     
     # Run Gunicorn with SSL
-    command = f"gunicorn -w 4 -b 0.0.0.0:5000 --certfile={cert_file} --keyfile={key_file} uploader:app"
+    command = f"gunicorn -w 4 -b 0.0.0.0:5000 --certfile={cert_file} --keyfile={key_file} crappyuploader:app"
     os.system(command)
 
